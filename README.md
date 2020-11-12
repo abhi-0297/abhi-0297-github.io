@@ -1,4 +1,3 @@
-# abhi-0297-github.io
 <h1 align="center">Hi 👋, I'm Abhishek sikarwar</h1>
 <h3 align="center">Full stack Developer at day & DataScience Enthusiast at Night</h3>
 
@@ -16,13 +15,13 @@
 
 - 🤝 I’m looking for help in learning New Technologies
 
-- 👨‍💻 Projects Link [https://air-bnb-1e451.web.app/](CLICK HERE)
+- 👨‍💻 Projects Link [https://air-bnb-1e451.web.app/](CLICK_HERE)
 
 - 💬 Ask me about **MERN & Datascience**
 
 - 📫 How to reach me **sikarwar.abhishek97@gmail.com**
 
-- 📄 Resume at [https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing](https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing)
+- 📄 Resume at [https://drive.google.com/file/d/11WSkC6cFwmt8J79N9uic8ZNerQ78zv3F/view?usp=sharing](CLICK_HERE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
